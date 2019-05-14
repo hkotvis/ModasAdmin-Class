@@ -1,0 +1,63 @@
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.deps.json
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.runtimeconfig.json
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.runtimeconfig.dev.json
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.dll
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.pdb
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.Views.dll
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.Views.pdb
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.RazorAssemblyInfo.cache
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.RazorAssemblyInfo.cs
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.AssemblyInfoInputs.cache
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.AssemblyInfo.cs
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.TagHelpers.input.cache
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.TagHelpers.output.cache
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.RazorCoreGenerate.cache
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.RazorTargetAssemblyInfo.cs
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.Views.pdb
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.dll
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.pdb
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.csproj.CopyComplete
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.csprojAssemblyReference.cache
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bitstudent\source\repos\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.deps.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.runtimeconfig.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.runtimeconfig.dev.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.Views.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\bin\Debug\netcoreapp2.2\ModasAdmin.Views.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.csprojAssemblyReference.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.RazorAssemblyInfo.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.RazorAssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.AssemblyInfoInputs.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.AssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.TagHelpers.input.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.TagHelpers.output.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.RazorCoreGenerate.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.RazorTargetAssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.Views.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\ModasAdmin.csproj.CopyComplete
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\RoleAdmin\Create.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\RoleAdmin\Index.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\RoleAdmin\Edit.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\Advanced Web\ModasAdmin\ModasAdmin\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
